@@ -1,0 +1,60 @@
+{
+    "clothes": {
+           "name": "Clothes",
+           "subscribers": 800000,
+           "description": "our fabric is finest",
+           "posts": [
+               {
+                   "title": "Marten de Roon to make pizza for more than 1,000 people in Bergamo if Atalanta win the Champions league.",
+                   "author": "joeextreme"
+                   
+               },
+               {
+                   "title": "Stephan Lichtsteiner has retired from professional football",
+                   "author": "odd person"
+               },
+               {
+                   "title": "OFFICIAL: Dani Parejo signs for Villareal.",
+                   "author": "joeextreme"
+               }
+           ]
+       },
+       "makeup": {
+           "name": "Makeup",
+           "subscribers": 40000,
+           "description": "Get beautiful makeup produts!",
+           "posts": [
+               {
+                   "title": "The cutest chicken ever <3",
+                   "author": "Ali Afghani"
+               },
+               {
+                   "title": "Oh yes ! i collect eggs todayyy I m very happy",
+                   "author": "Usman rao"
+               },
+               {
+                   "title": "My chicken died today ohh no",
+                   "author": "bilal"
+               }
+           ]
+   },
+   
+   
+   "skincare": {
+       "name": "Skin Care",
+       "subscribers": 44002,
+       "description": "Get our products for flawless skin!",
+       "posts": [
+           {
+               "title": "My first meyer lemon ripened today. Im so proud of the little guy. Banana for scale",
+               "author": "proudmamma",
+               "img": "https://preview.redd.it/1bz6we4j54941.jpg?width=640&crop=smart&auto=webp&s=a036ea99299f7737efde9f6c3bfa43893f5eaa00"
+           },
+           {
+               "title": "I think I overestimated the harvest basket size I needed.",
+               "author": "grower123",
+               "img": "https://preview.redd.it/4h99osd25i351.jpg?width=640&crop=smart&auto=webp&s=d651250a345bbceeba7a66632e8c52a02d71bc73"
+           }
+       ]
+   }
+   }
